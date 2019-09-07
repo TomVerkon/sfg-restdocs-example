@@ -18,11 +18,11 @@
 |Time this beer record was created
 
 |`+beerName+`
-|`+Null+`
+|`+String+`
 |Name of beer
 
 |`+beerStyle+`
-|`+Null+`
+|`+String+`
 |Style of beer
 
 |`+upc+`
