@@ -1,13 +1,15 @@
 package guru.springframework.sfgrestdocsexample.web.mappers;
 
+import javax.annotation.processing.Generated;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
 import guru.springframework.sfgrestdocsexample.domain.Beer;
 import guru.springframework.sfgrestdocsexample.domain.Beer.BeerBuilder;
 import guru.springframework.sfgrestdocsexample.web.model.BeerDto;
 import guru.springframework.sfgrestdocsexample.web.model.BeerDto.BeerDtoBuilder;
 import guru.springframework.sfgrestdocsexample.web.model.BeerStyleEnum;
-import javax.annotation.processing.Generated;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",

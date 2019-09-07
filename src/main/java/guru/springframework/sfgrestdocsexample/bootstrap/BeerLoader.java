@@ -1,11 +1,12 @@
 package guru.springframework.sfgrestdocsexample.bootstrap;
 
-import guru.springframework.sfgrestdocsexample.domain.Beer;
-import guru.springframework.sfgrestdocsexample.repositories.BeerRepository;
+import java.math.BigDecimal;
+
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
-import java.math.BigDecimal;
+import guru.springframework.sfgrestdocsexample.domain.Beer;
+import guru.springframework.sfgrestdocsexample.repositories.BeerRepository;
 
 /**
  * Created by jt on 2019-05-17.

@@ -1,9 +1,10 @@
 package guru.springframework.sfgrestdocsexample.repositories;
 
-import guru.springframework.sfgrestdocsexample.domain.Beer;
+import java.util.UUID;
+
 import org.springframework.data.repository.PagingAndSortingRepository;
 
-import java.util.UUID;
+import guru.springframework.sfgrestdocsexample.domain.Beer;
 
 /**
  * Created by jt on 2019-05-17.
