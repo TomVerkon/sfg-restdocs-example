@@ -1,0 +1,40 @@
+|===
+|Path|Type|Description
+
+|`+id+`
+|`+String+`
+|Unique Id of beer
+
+|`+version+`
+|`+Null+`
+|Version
+
+|`+lastModifiedDate+`
+|`+Null+`
+|Last time this beer record was modified
+
+|`+createdDate+`
+|`+Null+`
+|Time this beer record was created
+
+|`+beerName+`
+|`+Null+`
+|Name of beer
+
+|`+beerStyle+`
+|`+Null+`
+|Style of beer
+
+|`+upc+`
+|`+Null+`
+|Universal product code of beer
+
+|`+price+`
+|`+Null+`
+|Price of beer
+
+|`+quantityOnHand+`
+|`+Null+`
+|Current inventory of this beer
+
+|===

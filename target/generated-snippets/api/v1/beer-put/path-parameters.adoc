@@ -1,0 +1,8 @@
+.+/api/v1/beer/{beerId}+
+|===
+|Parameter|Description
+
+|`+beerId+`
+|Unique identifier of beer to update
+
+|===

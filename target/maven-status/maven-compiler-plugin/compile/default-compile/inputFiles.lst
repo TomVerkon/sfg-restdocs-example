@@ -1,0 +1,11 @@
+C:\Users\tverk\workspaces\spring\guru\my-beer-service\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\SfgRestdocsExampleApplication.java
+C:\Users\tverk\workspaces\spring\guru\my-beer-service\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\bootstrap\BeerLoader.java
+C:\Users\tverk\workspaces\spring\guru\my-beer-service\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\repositories\BeerRepository.java
+C:\Users\tverk\workspaces\spring\guru\my-beer-service\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\web\model\BeerStyleEnum.java
+C:\Users\tverk\workspaces\spring\guru\my-beer-service\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\domain\Beer.java
+C:\Users\tverk\workspaces\spring\guru\my-beer-service\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\web\mappers\DateMapper.java
+C:\Users\tverk\workspaces\spring\guru\my-beer-service\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\web\model\BeerDto.java
+C:\Users\tverk\workspaces\spring\guru\my-beer-service\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\web\controller\BeerController.java
+C:\Users\tverk\workspaces\spring\guru\my-beer-service\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\web\model\BeerPagedList.java
+C:\Users\tverk\workspaces\spring\guru\my-beer-service\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\web\mappers\BeerMapper.java
+C:\Users\tverk\workspaces\spring\guru\my-beer-service\sfg-restdocs-example\src\main\java\guru\springframework\sfgrestdocsexample\web\controller\MvcExceptionHandler.java
